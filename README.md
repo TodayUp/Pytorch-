@@ -6,6 +6,15 @@
 
 
 学习过程中参考了许多其他人翻译的教程：
-①https://ranmaosong.github.io/2017/11/27/PyTorch-60-min-Tutorial/、
+
+
+
+①https://ranmaosong.github.io/2017/11/27/PyTorch-60-min-Tutorial/
+
+
+
 ②https://www.cnblogs.com/CATHY-MU/p/7761729.html
+
+
+
 在学习过程中遇到了许多问题，意识到了自己的不足，需要继续学习。
