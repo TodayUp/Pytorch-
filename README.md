@@ -1,4 +1,4 @@
-# Pytorch-
+# Pytorch-Learning
 记录学习的Pytorch官方入门一小时文档的学习，实际上一个小时根本学不完，哈哈
 
 官方文档的地址：https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
